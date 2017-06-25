@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Creating a repository helps maintain a collection of the commits one has made, and provides easy access to them.
