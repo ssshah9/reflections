@@ -1,2 +1,5 @@
 Did push/pull make sense?
 Yes it kind of does.
+
+Have you tried implementing the same?
+Yes I'm in the process of doing so.
